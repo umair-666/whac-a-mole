@@ -1,0 +1,28 @@
+.grid {
+	width: 606px;
+	height: 606px;
+	display: flex;
+	flex-wrap: wrap;
+}
+ 
+/* finding class square */
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid black 1px;
+}
+
+.mole {
+
+	background-image: url("mole.jpeg");
+    border-radius: 19px;
+	background-size: cover;
+}
+
+body {
+    background-color: rgb(226, 178, 114);
+  }
+
+  h2{
+      background-color: rgb(78, 179, 75);
+  }
